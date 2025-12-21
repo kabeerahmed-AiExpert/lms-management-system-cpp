@@ -1,6 +1,5 @@
 LMS Database & Management System (C++)
 Overview
-
 The LMS Database & Management System is a console-based application developed in C++ to manage student attendance using a simple and efficient file-based storage system. The project demonstrates how core programming concepts can be applied to build a basic Learning Management System without relying on external databases or frameworks.
 
 The system implements role-based access, allowing teachers and students to interact with the application through separate interfaces. Teachers can record attendance, while students can view their attendance records based on stored data.
